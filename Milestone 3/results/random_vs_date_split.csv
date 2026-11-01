@@ -1,0 +1,5 @@
+model,"test MAE, date split (Jan-Jun 2024)","test MAE, random 80/20 split"
+"C0 Linear regression, team draft (no lags)",1.568,1.03
+"C1 Linear regression, day-ahead features",0.402,0.469
+"C2 kNN, day-ahead features (k=80)",0.597,0.431
+"C3 Decision tree, day-ahead features (depth=8)",0.466,0.436

@@ -1,0 +1,10 @@
+split,period,model,MAE,bias,n
+val,before shift,N1,0.539,-0.002,23904
+val,before shift,C1,0.474,-0.116,23904
+val,before shift,C0,0.873,-0.14,23904
+val,after shift,N1,0.475,0.035,2376
+val,after shift,C1,0.821,0.8,2376
+val,after shift,C0,2.303,2.303,2376
+test,after shift,N1,0.368,0.01,13101
+test,after shift,C1,0.402,0.22,13101
+test,after shift,C0,1.568,1.471,13101
